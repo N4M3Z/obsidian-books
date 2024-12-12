@@ -8,10 +8,9 @@ tags:
 description: Modern philosophy of science has paid great attention to the understanding of scientific ‘practice’, in contrast to concentration on scientific ‘method’. Paul Feyerabend’s acclaimed work, which has contributed greatly to this new emphasis, shows the deficiencies of some widespread ideas about the nature of knowledge. He argues that the only feasible explanations of scientific successes are historical explanations, and that anarchism must now replace rationalism in the theory of knowledge.The third edition of this classic text contains a new preface and additional reflections at various points in which the author takes account both of recent debates on science and on the impact of scientific products and practices on the human community. While disavowing populism or relativism, Feyerabend continues to insist that the voice of the inexpert must be heard. Thus many environmental perils were first identified by non-experts against prevailing assumptions in the scientific community. Feyerabend’s challenging reassessment of scientific claims and understandings are as pungent and timely as ever.
 favourite: false
 created: 2024-12-05 - 12:25 am
-modified: 2024-12-11 - 08:22 pm
+modified: 2024-12-12 - 02:36 am
 icon: 📘
 areas: 
-projects: 
 related: 
 authors:
   - "[[Paul Karl Feyerabend]]"

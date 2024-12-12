@@ -8,10 +8,9 @@ tags:
 description: "Having witnessed the terrible massacre of Imperial forces on Isstvan III, Death Guard Captain Garro seizes a ship and sets a course for Terra to warn the Emperor of Horus' treachery. But when the fleeing Eisenstein is damaged by enemy fire, it becomes stranded in the warp - the realm of the Dark Powers. Can Garro and his men survive the depredations of Chaos and get his warning to the Emperor before Horus' plans reach fruition?"
 favourite: false
 created: 2024-12-05 - 12:45 am
-modified: 2024-12-11 - 08:22 pm
+modified: 2024-12-12 - 02:36 am
 icon: 📘
 areas: 
-projects: 
 related: 
 authors:
   - "[[James Swallow]]"

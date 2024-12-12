@@ -8,10 +8,9 @@ tags:
 description: "It is the 31st millennium, and humanity is at the peak of its powers. As the Great Crusade, led by Warmaster Horus, continues to conquer the galaxy, Fulgrim, Primarch of the Emperor’s Children, leads his warriors into battle against a vile alien foe. From the blood of this campaign are sown the seeds that will lead this proud Legion to treachery, taking them down the darkest of paths of corruption. Leading up to the carnage of the Dropsite Massacre on Isstvan V, this is the tale of Fulgrim's tragic fall from grace."
 favourite: false
 created: 2024-12-05 - 12:45 am
-modified: 2024-12-11 - 08:22 pm
+modified: 2024-12-12 - 02:36 am
 icon: 📘
 areas: 
-projects: 
 related: 
 authors:
   - "[[Graham McNeill]]"
