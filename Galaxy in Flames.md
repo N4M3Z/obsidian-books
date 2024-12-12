@@ -8,11 +8,11 @@ tags:
 description: "Having recovered from his grievous injuries, Warmaster Horus leads the triumphant Imperial forces against the rebel world of Isstvan III. Though the rebels are swiftly crushed, Horus's treachery is finally revealed when the planet is razed by virus bombs and Space Marines turn on their battle-brothers in the most bitter struggle imaginable."
 favourite: false
 created: 2024-12-05 - 12:43 am
-modified: 2024-12-09 - 11:54 am
+modified: 2024-12-11 - 08:22 pm
 icon: 📘
-schema: "book"
 areas: 
 projects: 
+related: 
 authors:
   - "[[Ben Counter]]"
 sources:

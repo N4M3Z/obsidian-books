@@ -8,11 +8,11 @@ tags:
 description: "The human Imperium stands at its height of glory - thousands of worlds have been brought to heel by the conquering armies of mankind. At the peak of his powers, Warmaster Horus wields absolute control - but can even he resist the corrupting whispers of Chaos?"
 favourite: false
 created: 2024-12-05 - 12:41 am
-modified: 2024-12-09 - 11:54 am
+modified: 2024-12-11 - 08:22 pm
 icon: 📘
-schema: "book"
 areas: 
 projects: 
+related: 
 authors:
   - "[[Graham McNeill]]"
 sources:

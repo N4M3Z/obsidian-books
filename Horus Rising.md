@@ -8,11 +8,11 @@ tags:
 description: "After thousands of years of expansion and conquest, the human Imperium is at its height. His dream for humanity accomplished, the Emperor hands over the reins of power to his Warmaster, Horus, and heads back to Terra. But is Horus strong enough to control his fellow commanders and continue the Emperor's grand design, or will such incredible power corrupt him?"
 favourite: false
 created: 2024-12-04 - 11:14 pm
-modified: 2024-12-09 - 11:54 am
+modified: 2024-12-11 - 08:22 pm
 icon: 📘
-schema: book
 areas: 
 projects: 
+related: 
 authors:
   - "[[Dan Abnett]]"
 sources:
